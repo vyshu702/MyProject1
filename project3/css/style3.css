@@ -1,0 +1,21 @@
+.navbar{
+    background-color: black;
+    height: 50px;
+    width: 100%;
+}
+.navbar ul {
+    color: aliceblue;
+    text-align: center;
+    padding-top: 11px;
+    margin-top: -5px;
+    width: 100%;
+}
+.navbar li{
+    display: inline;
+    padding: 0px 100px 0px 0px;
+    font-size: 20px;
+    font-family: 'Open Sans',sans-serif;
+}
+.image1{
+    background:linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)),url("C:\Users\vyshnavi\AppData\Local\Temp\a49ff30b-c107-43df-ba82-87e110145260_restaurant-main.zip.260\restaurant-main\images\intro-bg.jpg");
+}
